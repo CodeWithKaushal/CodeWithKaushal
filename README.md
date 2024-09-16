@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Python**
 
-- 📫 How to reach me **kaushal@example.com** (replace with your actual email)
+- 📫 How to reach me **kaushaldivekar08@gmail.com**
 
 - ⚡ Fun fact **I am a tech enthusiast with a passion for learning new things!**
 
