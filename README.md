@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://instagram.com/kaushal_____08" target="blank"><img src="https://img.shields.io/instagram/follow/kaushal_____08?logo=instagram&style=for-the-badge" alt="kaushal_____08" /></a> </p>
 
-- 🔭 I’m currently working on **Streamlit WhatsApp Chat Analysis Project**
+- 🔭 I’m currently working on **WhatsApp Chat Analysis Project**
 
 - 🌱 I’m currently learning **Machine Learning and Data Visualization**
 
