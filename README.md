@@ -64,7 +64,16 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-[![Kaushal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=CodeWithKaushal&theme=xcode)](https://github.com/CodeWithKaushal)
+<h3 align="left">Tech Stack:</h3>
+<ul>
+<li><strong>Programming Languages</strong>: Python, Java, JavaScript, C++</li>
+<li><strong>Frameworks</strong>: React, Node.js, Django</li>
+<li><strong>Databases</strong>: MySQL, MongoDB, PostgreSQL</li>
+<li><strong>Tools</strong>: Docker, Git, Jupyter</li>
+<li><strong>Cloud Services</strong>: AWS, GCP</li>
+<li><strong>Data Visualization</strong>: Tableau, Matplotlib</li>
+<li><strong>Machine Learning</strong>: TensorFlow, PyTorch, Scikit-Learn</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithKaushal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CodeWithKaushal" /></p>
 
