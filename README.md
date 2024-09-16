@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeWithKaushal&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithKaushal" /> </p>
 
-<p align="left"> <a href="https://instagram.com/kaushal_____08" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="kaushal_____08" width="40" height="40" /></a></p>
-
 - 🔭 I’m currently working on **WhatsApp Chat Analysis Project**
 
 - 🌱 I’m currently learning **Machine Learning and Data Visualization**
