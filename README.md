@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeWithKaushal&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithKaushal" /> </p>
 
-- 🔭 I’m currently working on **WhatsApp Chat Analysis Project**
+- 🔭 I’m currently working on **Disaster tweet Analyzer**
 
 - 🌱 I’m currently learning **Machine Learning and Data Visualization**
 
