@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kaushaldivekar08@gmail.com**
 
-- ⚡ Fun fact **I am a tech enthusiast with a passion for learning new things!**
+- ⚡ Fun fact **I am a tech enthusiast with a passion for learning new things!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
